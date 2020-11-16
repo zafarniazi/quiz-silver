@@ -32,7 +32,7 @@ Now how can you install it on your PC? Below are the steps you can follow:
 Below are the steps you can follow to update the extension:
 
 1. Remove the extension from `chrome://extensions/` url
-2. Redownload the latest version from `https://github.com/itsumarfarooq/quizsliver`
+2. Redownload the latest version from `https://github.com/zafarniazi/quiz-silver`
 3. Install it by following the steps described above.
 
 ## How much data we have?
@@ -53,10 +53,6 @@ It not only works for COMSATS Islamabad but also supports other campuses. Below 
 
 ## Disclaimer
 
-This extension is provided as is without any warranty of any kind. Also Author is not responsible for any kind of damage caused by this piece of software. **USE AT YOU OWN RISK**.
+This extension is provided as is without any warranty of any kind. Also Author is not responsible for any kind of damage caused by this piece of software. **USE AT YOU OWN 
 
-## Contact Me
 
-If you found any issue or wanna suggest something you can open an issue on github. You can also contact me personally at [harispasha@protonmail.com](mailto:harispasha@protonmail.com) or join us on Discord:
-
-[![](https://discordapp.com/api/guilds/699000998877986896/embed.png?style=banner2)](https://discord.gg/QHNBZBD)
